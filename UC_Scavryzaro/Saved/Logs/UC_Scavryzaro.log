@@ -1011,3 +1011,18 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.02.23-21.44.05:846][985]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to initialize the project as a Git repository first.
 [2025.02.23-21.48.13:380][ 11]LogSlate: Window 'Revision Control Login' being destroyed
 [2025.02.23-21.48.20:446][739]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.02.23-21.53.10:600][131]LogSlate: Window 'View Changes' being destroyed
+[2025.02.23-21.53.10:605][131]LogSlate: Window 'View Changes' being destroyed
+[2025.02.23-21.53.20:812][185]SourceControl: Error: warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+[2025.02.23-21.53.20:812][185]SourceControl: Error: warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+[2025.02.23-21.53.20:887][185]LogSourceControl: commit successful: [master (root-commit) 3109a23] Initial commit
+[2025.02.23-21.53.20:962][186]SourceControl: [master (root-commit) 3109a23] Initial commit
+[2025.02.23-21.53.20:962][186]SourceControl:  7 files changed, 208 insertions(+)
+[2025.02.23-21.53.20:962][186]SourceControl:  create mode 100644 .gitignore
+[2025.02.23-21.53.20:962][186]SourceControl:  create mode 100644 Config/DefaultEditor.ini
+[2025.02.23-21.53.20:962][186]SourceControl:  create mode 100644 Config/DefaultEngine.ini
+[2025.02.23-21.53.20:962][186]SourceControl:  create mode 100644 Config/DefaultGame.ini
+[2025.02.23-21.53.20:962][186]SourceControl:  create mode 100644 Config/DefaultInput.ini
+[2025.02.23-21.53.20:962][186]SourceControl:  create mode 100644 README.md
+[2025.02.23-21.53.20:962][186]SourceControl:  create mode 100644 UC_Scavryzaro.uproject
+[2025.02.23-21.53.22:934][354]LogSlate: Window 'Revision Control Login' being destroyed
